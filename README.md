@@ -4,8 +4,10 @@
     </p>
     <p>
         <p style="font-size: large; "><b>Project Structure:</b></p>
-        <ul><b>HTML (index.html)</b>– For the user interface.</ul>
-        <ul><b>CSS (style.css)</b>– For styling and layout.</ul>
-        <ul><b>JavaScript (internal js)</b>  – For API requests and handling QR code generation.</ul>
-        <ul><b>QR Code API</b> – Use a third-party API to generate QR codes.</ul>
+        <ol>
+            <li><b>HTML (index.html)</b>– For the user interface.</li>
+            <li><b>CSS (style.css)</b>– For styling and layout.</li>
+            <li><b>JavaScript (internal js)</b>  – For API requests and handling QR code generation.</li>
+            <li><b>QR Code API</b> – Use a third-party API to generate QR codes.</li>
+        </ol>
     </p>
