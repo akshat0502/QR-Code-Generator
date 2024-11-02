@@ -1,5 +1,5 @@
-<button><a href="https://akshat0502.github.io/QR-Code-Generator/">QR-Code-Generator</a></button>
-    <br><br><br>
+<h1><a href="https://akshat0502.github.io/QR-Code-Generator/">QR-Code-Generator</a></h1>
+    <br>
     <p style="color: black;"><b style="font-size: xx-large;">C</b>reating a QR Code Generator using <b>HTML</b>,<b>CSS</b> , <b> JavaScript</b> and an <b>external API </b> involves using a frontend framework with a simple user interface and JavaScript to communicate with a QR code generation API.
     </p>
     <p>
