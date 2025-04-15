@@ -6,7 +6,7 @@
         <p style="font-size: large; "><b>Project Structure:</b></p>
         <ol>
             <li><b>HTML (index.html)</b> – For the user interface.</li>
-            <li><b>CSS (style.css)</b>– For styling and layout.</li>
+            <li><b>CSS (style.css)</b> – For styling and layout.</li>
             <li><b>JavaScript (script.js)</b>  – For API requests and handling QR code generation.</li>
             <li><b>QR Code API</b> – Use a third-party API to generate QR codes.</li>
         </ol>
