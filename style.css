@@ -35,7 +35,7 @@
    height: 51px;
  }
  .container p:hover{
-   color: rgba(0,0,0,0.6);
+   color: #494eea;
  }
  .container button{
     width: 100%;
